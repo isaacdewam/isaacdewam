@@ -8,4 +8,4 @@ CS @ University of Minnesota ('27)
 
 #### Tools
 
-TypeScript · Python · Swift · SwiftUI · React · Node.js · GraphQL ·
+TypeScript · Python · Swift · SwiftUI · React · Node.js · GraphQL
